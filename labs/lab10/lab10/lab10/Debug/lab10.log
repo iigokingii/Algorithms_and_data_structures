@@ -1,0 +1,8 @@
+﻿  lab10.cpp
+C:\Users\User\OneDrive\Рабочий стол\АиСД\labs\lab10\lab10\lab10\lab10.cpp(72,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\User\OneDrive\Рабочий стол\АиСД\labs\lab10\lab10\lab10\lab10.cpp(131,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\User\OneDrive\Рабочий стол\АиСД\labs\lab10\lab10\lab10\lab10.cpp(250,27): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\OneDrive\Рабочий стол\АиСД\labs\lab10\lab10\lab10\lab10.cpp(254,27): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\OneDrive\Рабочий стол\АиСД\labs\lab10\lab10\lab10\lab10.cpp(258,27): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\OneDrive\Рабочий стол\АиСД\labs\lab10\lab10\lab10\lab10.cpp(262,18): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  lab10.vcxproj -> C:\Users\User\OneDrive\Рабочий стол\АиСД\labs\lab10\lab10\Debug\lab10.exe
